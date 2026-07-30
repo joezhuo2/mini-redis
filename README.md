@@ -1,8 +1,8 @@
-#mini-redis
+# mini-redis
 
 A Redis-like in-memory key-value store built from scratch in C++, following Build Your Own Redis with C/C++.
 
-##about
+## About
 This project is about learning:
 
 - Network programming: sockets, event loops, and how a client/server protocol actually works under the hood
